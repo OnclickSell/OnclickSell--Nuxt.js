@@ -1,0 +1,24 @@
+//////////////////////////////////////////
+// Onclicksell.com colour scheme variables
+//////////////////////////////////////////
+
+$brand--colour: #3EA98D;
+$default--blue: #169BD5;
+$default--font--colour: #666666;
+
+//////////////////////////////////////////
+// Onclicksell.com fonts variables
+//////////////////////////////////////////
+
+$default--lato: 'lato', sans-serif;
+$default--pt-sans: 'pt sans', sans-serif;
+
+body {
+    font-family: $default--pt-sans;
+}
+
+.fluid {
+    min-width: 100%;
+    margin-left: 0;
+    margin-right: 0;
+}
